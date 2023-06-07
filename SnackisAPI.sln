@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnackisAPI", "SnackisAPI.csproj", "{35CC6631-125A-4B0B-B080-D9773AE86AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CC6631-125A-4B0B-B080-D9773AE86AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CC6631-125A-4B0B-B080-D9773AE86AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CC6631-125A-4B0B-B080-D9773AE86AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CC6631-125A-4B0B-B080-D9773AE86AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E19C25D-819C-41F5-8C96-759A1F187872}
+	EndGlobalSection
+EndGlobal
